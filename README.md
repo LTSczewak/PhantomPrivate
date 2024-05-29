@@ -30,3 +30,27 @@ Here we have "private"(only added r77 rootkit{https://github.com/bytecode77/r77-
 </div>
 
 ###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LTSczewak/PhantomPrivate/main/Extras/4.png"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LTSczewak/PhantomPrivate/main/Extras/5.png"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LTSczewak/PhantomPrivate/main/Extras/6.png"  />
+</div>
+
+###
